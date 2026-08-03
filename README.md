@@ -42,7 +42,7 @@ Contributions, issues, and feature requests are welcome.
 ## 🚀 Live Demo
 
 👉 **Click here to view the project:**  
-https://your-username.github.io/Digital-Clock/
+https://manvijaiswal-09.github.io/Digital-clock/
 
 ## ⭐ Support
 
